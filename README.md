@@ -75,6 +75,7 @@ dev ingress has /todos path for backend to validate application is working on ui
 
 below ingress use on prod namespace.
 
+```
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
@@ -94,3 +95,4 @@ spec:
             name: frontend
             port:
               number: 8080
+              ```
