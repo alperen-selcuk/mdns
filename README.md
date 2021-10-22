@@ -59,13 +59,13 @@ when has change and push master on repository frontend or backend gitlab start a
 
 ![image](https://user-images.githubusercontent.com/78741582/138440485-152c203d-22d0-4e7a-a4a7-02449090cc90.png)
 
-first stage, maven test, this job validate our java application can readdy to run. 
-seconda stage, maven build, this job compile our java application, install dependency and give us an artifact.
-third stage, build image, with Dockerfile build an image use existing artifact after that add commit id push dockerhub.
-fourth stage, build create helm chart for existing image tag.
-fifth stage, deploy helm chart on kubernetes cluster (dev namespace) with google sdk. 
-sixth stage, user interface test both frontend and backend. if http status is 200 pipeline success and continue
-last stage is prod deployment. this job trigger manually and deploy application prod namespace.
+* first stage, maven test, this job validate our java application can readdy to run. 
+* seconda stage, maven build, this job compile our java application, install dependency and give us an artifact.
+* third stage, build image, with Dockerfile build an image use existing artifact after that add commit id push dockerhub.
+* fourth stage, build create helm chart for existing image tag.
+* fifth stage, deploy helm chart on kubernetes cluster (dev namespace) with google sdk. 
+* sixth stage, user interface test both frontend and backend. if http status is 200 pipeline success and continue
+* last stage is prod deployment. this job trigger manually and deploy application prod namespace.
 
 ## Kubernetes Ingress 
 
@@ -95,4 +95,4 @@ spec:
             name: frontend
             port:
               number: 8080
-              '''
+'''
