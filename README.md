@@ -99,6 +99,19 @@ spec:
 
 ```
 
+## Grafana 
+
+if you want see pods metric you can use grafana operator.
+
+![image](https://user-images.githubusercontent.com/78741582/138460012-824f5dee-323b-4002-a3ca-4b63a0dc2b7a.png)
+
+```
+kubectl create ns monitoring
+helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
+helm repo update
+helm install prometheus prometheus-community/kube-prometheus-stack --namespace monitoring
+
+
 this pipeline work properly. you can reach prod application gui use that link http://todoprod-34-145-56-240.nip.io 
 
 you can see my path for this project i tried first :)
