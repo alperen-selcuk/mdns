@@ -112,6 +112,13 @@ helm repo update
 helm install prometheus prometheus-community/kube-prometheus-stack --namespace monitoring
 
 
+
+
+```
+
+## Conclusion
+
+
 this pipeline work properly. you can reach prod application gui use that link http://todoprod-34-145-56-240.nip.io 
 
 you can see my path for this project i tried first :)
