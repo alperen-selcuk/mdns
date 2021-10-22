@@ -76,22 +76,4 @@ dev ingress has /todos path for backend to validate application is working on ui
 below ingress use on prod namespace.
 
 
-'apiVersion: networking.k8s.io/v1
-kind: Ingress
-metadata:
-  name: todo-app
-  namespace: prod
-  annotations:
-spec:
-  ingressClassName: nginx
-  rules:
-  - host: todoprod-34-145-56-240.nip.io
-    http:
-      paths:
-      - pathType: Prefix
-        path: "/"
-        backend:
-          service:
-            name: frontend
-            port:
-              number: 8080'
+<script src="https://gist.github.com/alperen-selcuk/945eceb811a5b3d06c4c2b2b58804460.js"></script>
