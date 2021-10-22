@@ -2,13 +2,6 @@
 
 this project uses Java(11), Maven, Docker, Helm, Kubernetes, GitlabCI, Nginx Ingress, Google Cloud Platform
 
-you can find details:
-
-* Java: https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html
-* Maven: https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
-* Docker: https://docs.docker.com/engine/installation/
-* Helm: https://helm.sh
-* Kubernetes: https://kubernetes.io/docs/tutorials/kubernetes-basics/
 
 ## 🚀 Languages and Tools:
 
@@ -26,6 +19,14 @@ you can find details:
     
     
 </p>
+
+you can find details:
+
+* Java: https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html
+* Maven: https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+* Docker: https://docs.docker.com/engine/installation/
+* Helm: https://helm.sh
+* Kubernetes: https://kubernetes.io/docs/tutorials/kubernetes-basics/
 
 ## Project Structure
 
