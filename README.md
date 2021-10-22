@@ -17,6 +17,8 @@ you can find details:
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://docs.gitlab.com/ee/ci/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> </a>
+    <a href="https://maven.apache.org" target"_blank"> <img src="https://img.icons8.com/ios/50/000000/maven-ios.png"/> </a>
+    
 </p>
 
 ## Project Structure
