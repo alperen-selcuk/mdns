@@ -100,7 +100,7 @@ spec:
 
 this pipeline work properly. 
 
-you can touch me whenevet you want.
+you can touch me whenever you want below platforms.
 
 <p
     <a href="https://www.linkedin.com/in/hasan-alperen-selçuk-529a8a4a/" target"_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
