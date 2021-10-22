@@ -54,3 +54,8 @@ the below tree shows the basic project file structure.
 ![image](https://user-images.githubusercontent.com/78741582/138431415-474f3ac3-cc54-4c4d-a08b-5b24d1b6f6a9.png)
 
 project uses Gitlab CI for Continues Integration, uses Docker for Continues Delivery and uses Helm for Continues Deployment.
+
+when has change and push master on repository frontend or backend gitlab start a pipeline with multiple jobs.
+
+![image](https://user-images.githubusercontent.com/78741582/138439668-2fefebd5-49fd-40a0-8979-226eda472384.png)
+
