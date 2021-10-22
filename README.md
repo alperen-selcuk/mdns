@@ -45,3 +45,9 @@ the below tree shows the basic project file structure.
 project uses Gitlab CI for Continues Integration, uses Docker for Continues Delivery and uses Helm for Continues Deployment.
 
 ## Kubernetes Provisioning with Terraform
+
+at the begining project we can provision Kubernetes cluster on Google Kubernetes Engine.
+
+you can use this document: https://learn.hashicorp.com/tutorials/terraform/gke
+
+
