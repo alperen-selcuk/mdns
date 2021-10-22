@@ -28,6 +28,17 @@ you can find details:
 * Helm: https://helm.sh
 * Kubernetes: https://kubernetes.io/docs/tutorials/kubernetes-basics/
 
+
+## Kubernetes Provisioning with Terraform
+
+at the begining project we can provision Kubernetes cluster on Google Kubernetes Engine.
+
+you can use this document: https://learn.hashicorp.com/tutorials/terraform/gke
+
+![image](https://github.com/alperen-selcuk/mdns/blob/master/images/tf.gif?raw=true)
+
+first type "terraform plan" for test our terraform files and after "terraform apply" to create kubernetes cluster. i have one kubernetes cluster now so i added only terraform plan command output as a gif.
+
 ## Project Structure
 
 the below tree shows the basic project file structure.
@@ -43,13 +54,3 @@ the below tree shows the basic project file structure.
 ![image](https://user-images.githubusercontent.com/78741582/138431415-474f3ac3-cc54-4c4d-a08b-5b24d1b6f6a9.png)
 
 project uses Gitlab CI for Continues Integration, uses Docker for Continues Delivery and uses Helm for Continues Deployment.
-
-## Kubernetes Provisioning with Terraform
-
-at the begining project we can provision Kubernetes cluster on Google Kubernetes Engine.
-
-you can use this document: https://learn.hashicorp.com/tutorials/terraform/gke
-
-![image](https://github.com/alperen-selcuk/mdns/blob/master/images/tf.gif?raw=true)
-
-first type "terraform plan" for test our terraform files and after "terraform apply" to create kubernetes cluster. i have one kubernetes cluster now so i added only terraform plan command output as a gif.
