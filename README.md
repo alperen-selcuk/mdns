@@ -78,4 +78,6 @@ below ingress use on prod namespace.
 
 <script src="https://gist.github.com/alperen-selcuk/945eceb811a5b3d06c4c2b2b58804460.js"></script>
 
-https://gist.github.com/alperen-selcuk/945eceb811a5b3d06c4c2b2b58804460
+https://gist.github.com/945eceb811a5b3d06c4c2b2b58804460.git
+
+
