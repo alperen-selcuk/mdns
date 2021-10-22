@@ -65,7 +65,8 @@ when has change and push master on repository frontend or backend gitlab start a
 * fourth stage, build create helm chart for existing image tag. push chartmuseum as tgz file.
 * fifth stage, deploy helm chart on kubernetes cluster (dev namespace) with google sdk. 
 * sixth stage, user interface test both frontend and backend. if http status is 200 pipeline success and continue
-* last stage is prod deployment. this job trigger manually and deploy application prod namespace.
+* last stage is prod deployment. if everyting is ok, this job trigger manually by QA engineer or devops and deploy application prod namespace. i think every pipeline should have control mechanism so i put this stage.
+
 
 ## Kubernetes Ingress 
 
