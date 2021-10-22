@@ -85,7 +85,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: todoprod-34-145-56-240.nip.io
+  - host: "YOUR URL"
     http:
       paths:
       - pathType: Prefix
