@@ -99,7 +99,14 @@ spec:
 
 ```
 
-this pipeline work properly. 
+this pipeline work properly. you can reach prod application gui use that link http://todoprod-34-145-56-240.nip.io 
+
+you can see my path for this project i tried first :)
+
+![image](https://user-images.githubusercontent.com/78741582/138456855-6c105988-8691-4b84-8f8c-109cd3ad4bbd.png)
+
+
+
 
 you can touch me whenever you want below platforms.
 
