@@ -18,8 +18,7 @@ the below tree shows the basic project file structure.
 
 ![image](https://user-images.githubusercontent.com/78741582/138430969-2991c5fc-e469-4c24-8759-71aa1c578c50.png)
 
-│   ├── Dockerfile                                              // this Dockerfile will build an image for the backend - note that you'll need to perform a Maven build first
 
 ![image](https://user-images.githubusercontent.com/78741582/138431053-efab9ac9-5d8c-4111-b189-66e187f70f98.png)
 
-│   ├── Dockerfile                                              // this Dockerfile will build an image for the backend - note that you'll need to perform a Maven build first
+
