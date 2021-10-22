@@ -18,6 +18,12 @@ you can find details:
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://docs.gitlab.com/ee/ci/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> </a>
     <a href="https://maven.apache.org" target"_blank"> <img src="https://img.icons8.com/ios/50/000000/maven-ios.png"/> </a>
+    <a href="https://docker.com" target"_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
+    <a href="https://kubernetes.io" target"_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a>
+    <a href="https://nginx.com" target"_blank"> <img src="https://img.icons8.com/color/48/000000/nginx.png"/> </a>
+    <a href="https://cloud.google.com" target"_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a>
+    
+    
     
 </p>
 
