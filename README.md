@@ -103,5 +103,9 @@ this pipeline work properly.
 you can touch me whenevet you want.
 
 <p
-<a href="https://www.linkedin.com/in/hasan-alperen-selçuk-529a8a4a/" target"_blank"> <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/> </a>
+<a href="https://www.linkedin.com/in/hasan-alperen-selçuk-529a8a4a/" target"_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> </a>
+
+<a href="https://alperenhasanselcuk.medium.com" target"_blank"> <img src="https://img.icons8.com/color/48/000000/medium-logo--v2.png"/> </a>
+
 </p>
+
